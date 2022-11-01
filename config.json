@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6282118415702@s.whatsapp.net"],
+  "ownerName": ["Yinz4you"],
+  "botName": "RyukaBot.Myid",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/yinz4you1_",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
